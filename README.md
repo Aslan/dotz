@@ -1,0 +1,2 @@
+# dotz
+All the .* files
